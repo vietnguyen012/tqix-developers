@@ -27,11 +27,12 @@ from tqix.about import *
 
 # outer loop
 from tqix.qstate import *
-from tqix.qx import *
+from tqix.qobj import *
 from tqix.qmeas import *
 from tqix.qoper import *
 from tqix.qtool import *
 from tqix.backend import *
+from tqix.qmetro import *
 
 from tqix.quasi_prob import *
 from tqix.visualize import *
